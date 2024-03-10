@@ -19,19 +19,19 @@ def carousel():
     <div id="carouselExample" class="carousel slide">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="{url_for("static", filename="img/marse1.jpg")}" class="d-block w-100" alt="...">
+          <img src="{url_for("static", filename="old/img/marse1.jpg")}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="{url_for("static", filename="img/marse2.jpg")}" class="d-block w-100" alt="...">
+          <img src="{url_for("static", filename="old/img/marse2.jpg")}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="{url_for("static", filename="img/marse3.jpg")}" class="d-block w-100" alt="...">
+          <img src="{url_for("static", filename="old/img/marse3.jpg")}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="{url_for("static", filename="img/marse4.jpg")}" class="d-block w-100" alt="...">
+          <img src="{url_for("static", filename="old/img/marse4.jpg")}" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="{url_for("static", filename="img/marse5.jpg")}" class="d-block w-100" alt="...">
+          <img src="{url_for("static", filename="old/img/marse5.jpg")}" class="d-block w-100" alt="...">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
